@@ -16,7 +16,7 @@ function App() {
 					target='_blank'
 					rel='noopener noreferrer'
 				>
-					Sancho is learning Docker / Travis CI
+					learn react Sancho is learning Docker / Travis CI
 				</a>
 			</header>
 		</div>
